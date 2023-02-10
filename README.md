@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo!👋
 ## Sou Pedro Bueno
 
-- 💻 Desenvolvedor Back-End
+- 💻 Data Engineer Azure
 - 📕 Estudante de Análise e Desenvolvimento de Sistemas
 - 😄 Ele/Dele
 
