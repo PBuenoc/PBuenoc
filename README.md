@@ -30,8 +30,7 @@
   
   ### Certifications
 
-  <img align="center" src=![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/99371991/218224647-bc6a526f-c87a-4c89-b167-9d14788de621.png)
->
+ [microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/99371991/218224647-bc6a526f-c87a-4c89-b167-9d14788de621.png)
 </div>
   
  ##
