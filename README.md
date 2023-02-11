@@ -1,9 +1,9 @@
-### Olá, seja bem-vindo!👋
-## Sou Pedro Bueno
+### Hi, Welcome!👋
+## I'm Pedro Bueno
 
 - 💻 Data Engineer Azure
-- 📕 Estudante de Análise e Desenvolvimento de Sistemas
-- 😄 Ele/Dele
+- 📕 Analysis and Systems Development
+- 😄 He/Him
 
 <div align="center">
   <a href="https://github.com/Pbuenoc">
@@ -12,7 +12,6 @@
 </div>
 <div style="display: inline_block"><br>
  ### Programming Languages
-
   <img align="center" src="https://camo.githubusercontent.com/d9118e1fe9a91ff4d26d14d473c72890b17988a7121c3faca463e27065a9d47a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565">
   <img align="center" src="https://camo.githubusercontent.com/fd711c3d9436a4c65d3268ff77bdc48196b2d876ba076e5b58467d319a6ff4da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d6a617661">
   <img align="center" src="https://camo.githubusercontent.com/c2d9a0aa0e9931d785a0ef490a10d82d4b6e54a4cfb5e3667f25ce4b34530b61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426173682d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d474e5525323042617368266c6f676f436f6c6f723d677265656e">
