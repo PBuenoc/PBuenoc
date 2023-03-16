@@ -32,6 +32,7 @@ src="https://camo.githubusercontent.com/afc733e1820a0bd335228471d72f62c52f7b53ed
 
  ![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/99371991/218224647-bc6a526f-c87a-4c89-b167-9d14788de621.png)
 </div>
+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d93066d6-f4bd-436f-8234-d2b871619481" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   
  ##
 <div> 
