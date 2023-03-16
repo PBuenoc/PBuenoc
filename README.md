@@ -31,7 +31,8 @@ src="https://camo.githubusercontent.com/afc733e1820a0bd335228471d72f62c52f7b53ed
   ### Certifications
 
  ![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/99371991/218224647-bc6a526f-c87a-4c89-b167-9d14788de621.png)
- ![microsoft-certified-azure-data-fundamentals (3)](https://user-images.githubusercontent.com/99371991/225628255-71b0c28a-091b-4863-8069-c9a7f9a8e05e.png)
+ ![microsoft-certified-azure-data-fundamentals (4)](https://user-images.githubusercontent.com/99371991/225628401-a9b52a51-c6e9-4eb8-ba1b-3fc4bfeea4dc.png)
+
  </div>
 
 <div> 
