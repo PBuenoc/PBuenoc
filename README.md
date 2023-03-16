@@ -31,10 +31,9 @@ src="https://camo.githubusercontent.com/afc733e1820a0bd335228471d72f62c52f7b53ed
   ### Certifications
 
  ![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/99371991/218224647-bc6a526f-c87a-4c89-b167-9d14788de621.png)
-</div>
-![microsoft-certified-azure-data-fundamentals (1)](https://user-images.githubusercontent.com/99371991/225627246-c6cbb410-9cab-414c-ba57-878d509f5fa3.png)
-</div>
- ##
+ ![microsoft-certified-azure-data-fundamentals (1)](https://user-images.githubusercontent.com/99371991/225627246-c6cbb410-9cab-414c-ba57-878d509f5fa3.png)
+ </div>
+
 <div> 
   <a href="https://instagram.com/buenotts" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-bueno-770684212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
